@@ -1,0 +1,24 @@
+{
+    "user1" : {
+       "first_name" : "Sumanth",
+       "last_name":"Reddy",
+       "email":"sumanthreddy@gmail.com"
+       
+       
+    },
+    
+    "user2" : {
+       "first_name" : "Rajesh",
+       "last_name":"Reddy",
+       "email":"Rajeshreddy@gmail.com"
+       
+     
+    },
+    
+    "user3" : {
+       "first_name" : "Suresh",
+       "last_name":"Reddy",
+       "email":"sureshreddy@gmail.com"
+  
+    }
+ }
